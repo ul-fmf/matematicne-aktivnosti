@@ -1,1 +1,6 @@
+# Site wide configuration
+title: "Matematične aktivnosti"
+description: # you can place here a subtitle
+logo: # 120x120 px default image used for Twitter summary card
+locale: sl
 theme: jekyll-theme-architect
