@@ -3,4 +3,5 @@
 
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
-h1 { font-family: 'Gloria Hallelujah'; }
+header { font-family: 'Gloria Hallelujah', 'Helvetica Neue', Helvetica, Arial, serif; }
+#main-content h1, h2, h3, h4, h5, h6 { font-family: 'Gloria Hallelujah', 'Helvetica Neue', Helvetica, Arial, serif; }
