@@ -6,6 +6,8 @@ Aktivnosti najdete na spletni strani [https://ul-fmf.github.io/matematicne-aktiv
 
 ### Ekipa
 
+Študentke in študenti:
+
 * Hana Čadež
 * David Čadež
 * Špela Plevel
@@ -18,5 +20,5 @@ Aktivnosti najdete na spletni strani [https://ul-fmf.github.io/matematicne-aktiv
 
 Mentorja:
 
-* Tina Klopčič Dobrić ([Osnovna šola Vič](http://www.osvic.si)
+* Tina Klopčič Dobrić ([Osnovna šola Vič](http://www.osvic.si))
 * [Andrej Bauer](https://andrej.com/) ([Fakulteta za matematiko in fiziko](https://www.fmf.uni-lj.si/si/))
