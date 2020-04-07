@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Matematične aktivnosti
 
-You can use the [editor on GitHub](https://github.com/ul-fmf/matematicne-aktivnosti/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Matematične aktivnosti za otroke in vse, ki jih veseli matematika.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aktivnosti najdete na spletni strani [https://ul-fmf.github.io/matematicne-aktivnosti/](https://ul-fmf.github.io/matematicne-aktivnosti/).
 
-### Markdown
+### Ekipa
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Hana Čadež
+* David Čadež
+* Špela Plevel
+* Manca Prošek
+* Urh Primožič
+* Katarina Brdnik
+* Martin Radman
+* Jon Mikoš
+* [Petrisa Čanji](https://github.com/petrisa-canji)
 
-```markdown
-Syntax highlighted code block
+Mentorja:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ul-fmf/matematicne-aktivnosti/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Tina Klopčič Dobrić ([Osnovna šola Vič](http://www.osvic.si)
+* [Andrej Bauer](https://andrej.com/) ([Fakulteta za matematiko in fiziko](https://www.fmf.uni-lj.si/si/))
