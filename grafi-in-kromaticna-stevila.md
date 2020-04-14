@@ -4,6 +4,6 @@ Datoteka [`grafi-in-kromaticna-stevila.pdf`](gradivo/grafi-in-kromaticna-stevila
 
 ### Avtorji
 
-* Lepa Anka
-* Uršika Zala
-* Peter Klepec
+* [Petrisa Čanji](https://github.com/petrisa-canji)
+* Martin Radman
+* [Urh Primožič](https://github.com/urhprimozic)
