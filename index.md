@@ -16,7 +16,7 @@ Matematične aktivnosti za otroke in vse, ki jih veseli matematika, so pripravil
 * David Čadež
 * Špela Plevel
 * Manca Prošek
-* Urh Primožič
+* [Urh Primožič](https://github.com/urhprimozic)
 * Katarina Brdnik
 * Martin Radman
 * Jon Mikoš
@@ -24,5 +24,5 @@ Matematične aktivnosti za otroke in vse, ki jih veseli matematika, so pripravil
 
 Mentorja:
 
-* Tina Klopčič Dobrić ([Osnovna šola Vič](http://www.osvic.si)
+* Tina Klopčič Dobrić ([Osnovna šola Vič](http://www.osvic.si))
 * [Andrej Bauer](https://andrej.com/) ([Fakulteta za matematiko in fiziko](https://www.fmf.uni-lj.si/si/))
