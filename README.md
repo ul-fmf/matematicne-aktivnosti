@@ -12,7 +12,7 @@ Aktivnosti najdete na spletni strani [https://ul-fmf.github.io/matematicne-aktiv
 * David Čadež
 * Špela Plevel
 * Manca Prošek
-* Urh Primožič
+* [Urh Primožič](https://github.com/urhprimozic)
 * Katarina Brdnik
 * Martin Radman
 * Jon Mikoš
