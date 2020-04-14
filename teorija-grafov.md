@@ -1,6 +1,6 @@
 ## Teorija grafov za otroke
 
-Datoteka [`Teorija grafov za otroke.pdf`](gradivo/Teorija grafov za otroke.pdf).
+Datoteka [`simetrija.pdf`](gradivo/Teorija grafov za otroke.pdf)
 
 ### Avtorji
 
