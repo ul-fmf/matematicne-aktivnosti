@@ -1,6 +1,6 @@
 ## Simetrija
 
-Datoteka: [`simetrija.pdf`](gradivo/simetrija-1.pdf)
+Datoteka: [`simetrija.pdf`](gradivo/simetrija.pdf)
 
 ### Avtorji
 
