@@ -4,6 +4,7 @@ description: # you can place here a subtitle
 logo: # 120x120 px default image used for Twitter summary card
 locale: sl
 url: https://ul-fmf.github.io/matematicne-aktivnosti/
+encoding: UTF-8
 
 sass:
   sass_dir: _sass
