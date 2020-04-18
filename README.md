@@ -9,14 +9,14 @@ Ta repozitorij je namenjena vsem, ki želijo prispevati vsebino.
 
 #### Kako naredimo 
 
-Ikono za PDF lahko ustvarimo s programom [ImageMagick](https://imagemagick.org/). Na primer, takole iz datoteke `aktivnost.pdf` naredimo `aktivnost.png` velikosti do 480 × 480:
+Ikono za PDF lahko ustvarimo s programom [ImageMagick](https://imagemagick.org/). Na primer, takole iz datoteke `aktivnost.pdf` naredimo `aktivnost.png` velikosti do 256 × 256:
 
-    convert 'aktivnost.pdf[0-0]' -resize 480x480 aktivnost.png
+    convert 'aktivnost.pdf[0-0]' -resize 256x256 -bordercolor black -border 3x3 aktivnost.png
 
 Takole lahko v ukaznem oknu na Linuxu ali MacOS naredimo vse ikone hkrati:
 
     cd gradivo
-    for d in *pdf; do convert $d'[0--0]' -resize 480x480 "thumbnail/`basename $d .pdf`".png; done
+    for d in *pdf; do convert $d'[0--0]' -resize 256x256 -bordercolor black -border 3x3 "thumbnail/`basename $d .pdf`".png; done
 
 ### Ekipa
 
