@@ -3,8 +3,6 @@ title: "Matematične aktivnosti"
 layout: default
 ---
 
-Aktivnosti so namenjene učencem nižjih razredov osnovnih šol in vsem, ki jih zanima matematika.
-
 ### Grafi in kromatična števila
 
 [![Grafi in kromatična števila](/gradivo/thumbnail/grafi-in-kromaticna-stevila.png)](./gradivo/grafi-in-kromaticna-stevila.pdf)
