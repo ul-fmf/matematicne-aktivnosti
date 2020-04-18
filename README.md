@@ -3,6 +3,20 @@
 Matematične aktivnosti za otroke in vse, ki jih veseli matematika.
 
 Aktivnosti najdete na spletni strani [https://ul-fmf.github.io/matematicne-aktivnosti/](https://ul-fmf.github.io/matematicne-aktivnosti/).
+Ta repozitorij je namenjena vsem, ki želijo prispevati vsebino.
+
+### Tehnični nasveti
+
+#### Kako naredimo 
+
+Ikono za PDF lahko ustvarimo s programom [ImageMagick](https://imagemagick.org/). Na primer, takole iz datoteke `aktivnost.pdf` naredimo `aktivnost.png` velikosti do 480 × 480:
+
+    convert 'aktivnost.pdf[0-0]' -resize 480x480 aktivnost.png
+
+Takole lahko v ukaznem oknu na Linuxu ali MacOS naredimo vse ikone hkrati:
+
+    cd gradivo
+    for d in *pdf; do convert $d'[0--0]' -resize 480x480 "thumbnail/`basename $d .pdf`".png; done
 
 ### Ekipa
 
