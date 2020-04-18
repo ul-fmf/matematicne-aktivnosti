@@ -3,4 +3,13 @@ title: "Matematične aktivnosti"
 description: # you can place here a subtitle
 logo: # 120x120 px default image used for Twitter summary card
 locale: sl
-theme: jekyll-theme-architect
+
+exclude:
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .git
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
