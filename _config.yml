@@ -3,6 +3,11 @@ title: "Matematične aktivnosti"
 description: # you can place here a subtitle
 logo: # 120x120 px default image used for Twitter summary card
 locale: sl
+url: https://ul-fmf.github.io/matematicne-aktivnosti/
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 exclude:
   - .bundle

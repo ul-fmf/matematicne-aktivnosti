@@ -1,8 +1,15 @@
+---
+title: "Matematične aktivnosti"
+layout: default
+---
+
 Aktivnosti so namenjene učencem nižjih razredov osnovnih šol in vsem, ki jih zanima matematika.
 
 ### Grafi in kromatična števila
 
 [![Grafi in kromatična števila](/gradivo/thumbnail/grafi-in-kromaticna-stevila.png)](./gradivo/grafi-in-kromaticna-stevila.pdf)
+
+Datoteka: [**grafi-in-kromaticna-stevila.pdf**](./gradivo/grafi-in-kromaticna-stevila.pdf)
 
 Avtor angleškega originala [Graph coloring, chromatic numbers, and Eulerian paths and circuits](http://jdh.hamkins.org/math-for-seven-year-olds-graph-coloring-chromatic-numbers-eulerian-paths/) je [Joel David Hamkins](http://jdh.hamkins.org). V slovenščino so ga prevedli in priredili:
 
@@ -15,6 +22,8 @@ Avtor angleškega originala [Graph coloring, chromatic numbers, and Eulerian pat
 ### Simetrija
 
 [![Simetrija](/gradivo/thumbnail/simetrija.png)](./gradivo/simetrija.pdf)
+
+Datoteka: [**simetrija.pdf**](./gradivo/simetrija.pdf)
 
 Avtor angleškega originala [Fold, punch and cut for
 symmetry](http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/) je [Joel David
@@ -30,7 +39,7 @@ Hamkins](http://jdh.hamkins.org). V slovenščino so ga prevedli in priredili:
 
 [![Teorija grafov](/gradivo/thumbnail/teorija-grafov.png)](./gradivo/teorija-grafov.pdf)
 
-Datoteka PDF: [teorija-grafov.pdf](./gradivo/teorija-grafov.pdf)
+Datoteka: [**teorija-grafov.pdf**](./gradivo/teorija-grafov.pdf)
 
 Avtor angleškega originala [Graph theory for kids](http://jdh.hamkins.org/math-for-eight-year-olds/)
 je [Joel David Hamkins](http://jdh.hamkins.org). V slovenščino so ga prevedli in
@@ -63,4 +72,4 @@ Vič](http://www.osvic.si), Ljubljana. Če želite sodelovati tudi vi, nas poiš
 #### Mentorja
 
 * Tina Klopčič Dobrić ([Osnovna šola Vič](http://www.osvic.si))
-* [Andrej Bauer](https://andrej.com/) ([Fakulteta za matematiko in fiziko](https://www.fmf.uni-lj.si/si/))
+* [Andrej Bauer](http://www.andrej.com/) ([Fakulteta za matematiko in fiziko](https://www.fmf.uni-lj.si/si/))
