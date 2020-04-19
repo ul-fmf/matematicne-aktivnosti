@@ -31,14 +31,14 @@ in obiščete spletne strani na naslovu [http://127.0.0.1:4000/](http://127.0.0.
 
 Študentke in študenti:
 
-* Hana Čadež
-* David Čadež
-* Špela Plevel
-* Manca Prošek
+* [Hana Čadež](https://github.com/hana47)
+* [David Čadež](https://github.com/CadezDavid)
+* [Špela Plevel](https://github.com/spelaplevel)
+* [Manca Prošek](https://github.com/mancaprosek)
 * [Urh Primožič](https://github.com/urhprimozic)
-* Katarina Brdnik
-* Martin Radman
-* Jon Mikoš
+* [Katarina Brdnik](https://github.com/katarinabrdnik)
+* [Martin Radman](https://github.com/MartinRadman)
+* [Jon Mikoš](https://github.com/MikosJon)
 * [Petrisa Čanji](https://github.com/petrisa-canji)
 
 Mentorja:
