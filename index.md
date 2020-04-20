@@ -12,8 +12,8 @@ Datoteka: [**grafi-in-kromaticna-stevila.pdf**](./gradivo/grafi-in-kromaticna-st
 Avtor angleškega originala [Graph coloring, chromatic numbers, and Eulerian paths and circuits](http://jdh.hamkins.org/math-for-seven-year-olds-graph-coloring-chromatic-numbers-eulerian-paths/) je [Joel David Hamkins](http://jdh.hamkins.org). V slovenščino so ga prevedli in priredili:
 
 * [Petrisa Čanji](https://github.com/petrisa-canji)
-* Martin Radman
-* [Urh Primožič](https://github.com/urhprimozic)
+* [Martin Radman](https://github.com/MartinRadman)
+* [Urh Primožič]()
 
 <span class="clearfix"></span>
 
@@ -27,9 +27,9 @@ Avtor angleškega originala [Fold, punch and cut for
 symmetry](http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/) je [Joel David
 Hamkins](http://jdh.hamkins.org). V slovenščino so ga prevedli in priredili:
 
-* Katarina Brdnik
-* Špela Plevel
-* Manca Prošek
+* [Katarina Brdnik](https://github.com/katarinabrdnik)
+* [Špela Plevel](https://github.com/spelaplevel)
+* [Manca Prošek](https://github.com/mancaprosek)
 
 <span class="clearfix"></span>
 
@@ -43,9 +43,9 @@ Avtor angleškega originala [Graph theory for kids](http://jdh.hamkins.org/math-
 je [Joel David Hamkins](http://jdh.hamkins.org). V slovenščino so ga prevedli in
 priredili:
 
-* Jon Mikoš
-* David Čadež
-* Hana Čadež
+* [Jon Mikoš](https://github.com/MikosJon)
+* [David Čadež](https://github.com/CadezDavid)
+* [Hana Čadež](https://github.com/hana47)
 
 <span class="clearfix"></span>
 
@@ -57,14 +57,14 @@ Vič](http://www.osvic.si), Ljubljana. Če želite sodelovati tudi vi, nas poiš
 
 ### Ekipa
 
-* Hana Čadež
-* David Čadež
-* Špela Plevel
-* Manca Prošek
+* [Hana Čadež](https://github.com/hana47)
+* [David Čadež](https://github.com/CadezDavid)
+* [Špela Plevel](https://github.com/spelaplevel)
+* [Manca Prošek](https://github.com/mancaprosek)
 * [Urh Primožič](https://github.com/urhprimozic)
-* Katarina Brdnik
-* Martin Radman
-* Jon Mikoš
+* [Katarina Brdnik](https://github.com/katarinabrdnik)
+* [Martin Radman](https://github.com/MartinRadman)
+* [Jon Mikoš](https://github.com/MikosJon)
 * [Petrisa Čanji](https://github.com/petrisa-canji)
 
 #### Mentorja
