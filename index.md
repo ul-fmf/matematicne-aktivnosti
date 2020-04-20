@@ -13,7 +13,7 @@ Avtor angleškega originala [Graph coloring, chromatic numbers, and Eulerian pat
 
 * [Petrisa Čanji](https://github.com/petrisa-canji)
 * [Martin Radman](https://github.com/MartinRadman)
-* [Urh Primožič]()
+* [Urh Primožič](https://github.com/urhprimozic)
 
 <span class="clearfix"></span>
 
