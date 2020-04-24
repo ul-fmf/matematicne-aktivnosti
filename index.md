@@ -5,7 +5,11 @@ layout: default
 
 ### Grafi in kromatična števila
 
+<div class="aktivnost" markdown="1">
+
 [![Grafi in kromatična števila](/gradivo/thumbnail/grafi-in-kromaticna-stevila.png)](./gradivo/grafi-in-kromaticna-stevila.pdf)
+
+<div class="opis-aktivnosti" markdown="1">
 
 Datoteka: [**grafi-in-kromaticna-stevila.pdf**](./gradivo/grafi-in-kromaticna-stevila.pdf)
 
@@ -15,11 +19,16 @@ Avtor angleškega originala [Graph coloring, chromatic numbers, and Eulerian pat
 * [Martin Radman](https://github.com/MartinRadman)
 * [Urh Primožič](https://github.com/urhprimozic)
 
-<span class="clearfix"></span>
+</div>
+</div>
 
 ### Simetrija
 
+<div class="aktivnost" markdown="1">
+
 [![Simetrija](/gradivo/thumbnail/simetrija.png)](./gradivo/simetrija.pdf)
+
+<div class="opis-aktivnosti" markdown="1">
 
 Datoteka: [**simetrija.pdf**](./gradivo/simetrija.pdf)
 
@@ -31,11 +40,16 @@ Hamkins](http://jdh.hamkins.org). V slovenščino so ga prevedli in priredili:
 * [Špela Plevel](https://github.com/spelaplevel)
 * [Manca Prošek](https://github.com/mancaprosek)
 
-<span class="clearfix"></span>
+</div>
+</div>
 
 ### Teorija grafov za otroke
 
+<div class="aktivnost" markdown="1">
+
 [![Teorija grafov](/gradivo/thumbnail/teorija-grafov.png)](./gradivo/teorija-grafov.pdf)
+
+<div class="opis-aktivnosti" markdown="1">
 
 Datoteka: [**teorija-grafov.pdf**](./gradivo/teorija-grafov.pdf)
 
@@ -47,7 +61,8 @@ priredili:
 * [David Čadež](https://github.com/CadezDavid)
 * [Hana Čadež](https://github.com/hana47)
 
-<span class="clearfix"></span>
+</div>
+</div>
 
 ## O projektu
 
@@ -71,3 +86,4 @@ Vič](http://www.osvic.si), Ljubljana. Če želite sodelovati tudi vi, nas poiš
 
 * Tina Klopčič Dobrić ([Osnovna šola Vič](http://www.osvic.si))
 * [Andrej Bauer](http://www.andrej.com/) ([Fakulteta za matematiko in fiziko](https://www.fmf.uni-lj.si/si/))
+
