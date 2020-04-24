@@ -86,4 +86,4 @@ Vič](http://www.osvic.si), Ljubljana. Če želite sodelovati tudi vi, nas poiš
 
 * Tina Klopčič Dobrić ([Osnovna šola Vič](http://www.osvic.si))
 * [Andrej Bauer](http://www.andrej.com/) ([Fakulteta za matematiko in fiziko](https://www.fmf.uni-lj.si/si/))
-
+    
