@@ -84,6 +84,25 @@ priredili:
 </div>
 </div>
 
+### Zabava z ortoprojekcijami
+
+<div class="aktivnost" markdown="1">
+
+[![Zabava z ortoprojekcijami](/gradivo/thumbnail/zabava-z-ortoprojekcijami.png)](./gradivo/zabava-z-ortoprojekcijami.pdf)
+
+<div class="opis-aktivnosti" markdown="1">
+
+Datoteka: [**zabava-z-ortoprojekcijami.pdf**](./gradivo/zabava-z-ortoprojekcijami.pdf)
+
+Avtor angleškega originala [Math for kids: fun with orthoprojections!](http://jdh.hamkins.org/fun-with-orthoprojections/) je [Joel David Hamkins](http://jdh.hamkins.org). V slovenščino so ga prevedli in priredili:
+
+* [Petrisa Čanji](https://github.com/petrisa-canji)
+* [Martin Radman](https://github.com/MartinRadman)
+* [Urh Primožič](https://github.com/urhprimozic)
+
+</div>
+</div>
+
 ## O projektu
 
 Aktivnosti so pripravili študenti [Fakultete za matematiko in
