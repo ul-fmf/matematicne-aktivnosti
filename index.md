@@ -103,6 +103,26 @@ Avtor angleškega originala [Math for kids: fun with orthoprojections!](http://j
 </div>
 </div>
 
+### Risanje šahovnice v perspektivi
+
+<div class="aktivnost" markdown="1">
+
+[![Šahovnica](/gradivo/thumbnail/Šahovnica.png)](./gradivo/Šahovnica.pdf)
+
+<div class="opis-aktivnosti" markdown="1">
+
+Datoteka: [**Šahovnica.pdf**](./gradivo/Šahovnica.pdf)
+
+Avtor angleškega originala [Draw a chessboard in perspective view, using straightedge only](http://jdh.hamkins.org/chessboard-in-perspective/)
+je [Joel David Hamkins](http://jdh.hamkins.org). V slovenščino ga je prevedla in
+priredila:
+
+* [Manca Prošek](https://github.com/mancaprosek)
+
+</div>
+</div>
+
+
 ## O projektu
 
 Aktivnosti so pripravili študenti [Fakultete za matematiko in
