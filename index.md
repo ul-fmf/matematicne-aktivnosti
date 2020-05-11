@@ -129,6 +129,9 @@ Aktivnosti so pripravili študenti [Fakultete za matematiko in
 fiziko](https://www.fmf.uni-lj.si/), Univerza v Ljubljani, v sodelovanju z [Osnovno šolo
 Vič](http://www.osvic.si), Ljubljana. Če želite sodelovati tudi vi, nas poiščite na GitHub projektu [matematicne-aktivnosti](https://github.com/ul-fmf/matematicne-aktivnosti).
 
+Učiteljice in učitelji, ki želijo aktivnosti uporabiti pri pouku in bi želeli naše sodelovanje ali
+pomoč pri izvedbi, naj se oglasijo pri [Andreju Bauerju](http://www.andrej.com/).
+
 ### Ekipa
 
 * [Hana Čadež](https://github.com/hana47)
