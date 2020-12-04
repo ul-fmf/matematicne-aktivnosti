@@ -44,4 +44,4 @@ in obiščete spletne strani na naslovu [http://127.0.0.1:4000/](http://127.0.0.
 Mentorja:
 
 * Tina Klopčič Dobrić ([Osnovna šola Vič](http://www.osvic.si))
-* [Andrej Bauer](https://andrej.com/) ([Fakulteta za matematiko in fiziko](https://www.fmf.uni-lj.si/si/))
+* [Andrej Bauer](http://andrej.com/) ([Fakulteta za matematiko in fiziko](https://www.fmf.uni-lj.si/si/))
